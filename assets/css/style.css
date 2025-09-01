@@ -116,6 +116,7 @@ a {
     line-height: 1.5;
     /* letter-spacing dựa vào chính nó nên dùng em -> chia cho font-size (px) để đổi qua em */
     letter-spacing: 0.01em;
+    color: #687690;
 }
 
 .hero .title {
